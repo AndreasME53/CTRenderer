@@ -25,6 +25,8 @@ there is a opacity slider to change the opacity
 A imager of the skull from the ct scans to show gradient shading:
 
 ![image](https://user-images.githubusercontent.com/56043339/110862767-a7c0f980-82b7-11eb-9c48-87e99288b904.png)
+
+
 This graident shader finds the graident from the pixel data and determines the shading towards a light source, the light source can be moved along the x-axis
 
 
