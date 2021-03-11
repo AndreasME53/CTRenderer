@@ -10,7 +10,7 @@ Starting window:
 
 Imagers of all three skull angles from the ct scan slices:
 
-![image](https://user-images.githubusercontent.com/56043339/110862063-eace9d00-82b6-11eb-8171-1a51acf62232.png)
+![image](https://user-images.githubusercontent.com/56043339/110863485-a6dc9780-82b8-11eb-9e61-c6afb99fa070.png)
 
 Imagers of all three skull angles from the ct scans to show volume rendering:
 
