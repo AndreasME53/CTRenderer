@@ -2,7 +2,7 @@
 Graphics java project designed to take in ct scans and render imagers, 
 one can view the normal ct scans, full volume render scans and full gradient shading of the skulls from 3 angles,
 
-Imagers of the program:
+Imagers of the program: 
 
 Starting window:
 
